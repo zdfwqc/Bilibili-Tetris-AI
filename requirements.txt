@@ -1,0 +1,6 @@
+numpy==1.24.3
+torch==2.0.1
+opencv-python==4.8.0
+pytesseract==0.3.10
+pywin32==306
+keyboard==0.13.5 
