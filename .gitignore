@@ -32,7 +32,11 @@ ENV/
 *.swo
 
 # 项目特定文件
-images/*
+images/*.png
+images/*.jpg
+images/*.jpeg
+images/*.gif
+images/*.bmp
 *.pth
 *.pt
 *.ckpt
